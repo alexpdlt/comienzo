@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    <body>
+        <p>Este es mi primer comentario de 2 líneas</p>
+        <div>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        <div>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=pfd6soj-HsA&ab_channel=GolMundial">RESUMEN COSTA RICA 2-4 ALEMANIA</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Cl_hwn5d6B8&ab_channel=%23RefugioMental">Así Es Como los Profesionales Limpian Profundamente las Cosas</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=V9E3T5ZJsLo&ab_channel=LOCOLABES">Los vídeos más satisfactorios de trabajadores haciendo su trabajo a la perfección #5</a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
